@@ -1,2 +1,2 @@
 # regression-project-br
-A simple gression model with the famous Titanic Dataset
+A simple regression model with the famous Titanic Dataset
